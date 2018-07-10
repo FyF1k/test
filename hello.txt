@@ -1,2 +1,2 @@
 PRINT("HELLO WORLD");
-good
+god
